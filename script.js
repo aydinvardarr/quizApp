@@ -1,9 +1,9 @@
 const quizData = [
     {
-        question: 'How old is Florin?',
+        question: 'How old is Aydın?',
         a: '10',
         b: '17',
-        c: '26',
+        c: '25',
         d: '110',
         correct: 'c'
     },
